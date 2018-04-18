@@ -1,0 +1,8 @@
+{
+  "name": "testtree",
+  "app_id": "3d78e051",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
